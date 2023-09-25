@@ -7,6 +7,6 @@
 ![threadlist.php](screenshot/screenshot2.png)
 ## **Start a Discussion**
 ![Dropdown Menu](screenshot/Screenshot3.png)
-## ** Comments**
+## **Comments**
 ![Cart](screenshot/Screenshot4.png)
 
